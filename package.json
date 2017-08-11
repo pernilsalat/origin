@@ -1,0 +1,29 @@
+{
+  "name": "cucumber-protractor-try",
+  "version": "1.0.0",
+  "description": "cucumber-protractor lego",
+  "main": "cucumber.conf.js",
+  "dependencies": {
+    "string": "^3.3.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "chai-string": "^1.2.0",
+    "cucumber": "^1.3.2",
+    "gulp": "^3.9.1",
+    "gulp-angular-protractor": "^0.4.2",
+    "protractor": "^5.1.1",
+    "protractor-cucumber-framework": "^3.1.0",
+    "sleep": "^5.1.1"
+  },
+  "scripts": {
+    "test": "protractor"
+  },
+  "keywords": [
+    "protractor",
+    "cucumber.js"
+  ],
+  "author": "julian",
+  "license": "Redsauce"
+}
